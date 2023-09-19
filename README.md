@@ -11,6 +11,7 @@ Tech and libraries used:
 o	Supervised
 o	Confusion Matrix
 o	Optimization
+
 Dataset:
 -	Team Stats per season:
 -	API Call: https://statsapi.web.nhl.com/api/v1/teams/<Team ID>?expand=team.stats&season=<season>
