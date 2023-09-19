@@ -17,7 +17,9 @@ Dataset:
 -	API Call: https://statsapi.web.nhl.com/api/v1/teams/<Team ID>?expand=team.stats&season=<season>
 
 GitHub Repository:
+
 https://github.com/joeldemontigny/project-sports-analytics-NHL-3.0.git
+
 Team Members:
 -	Ravina Kolsawala
 -	Joel Demontigny
