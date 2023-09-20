@@ -7,6 +7,9 @@ Tech and libraries used:
 -	Pandas
 -	MySQL
 -	Tableau
+
+-	![image](https://github.com/joeldemontigny/project-sports-analytics-NHL-3.0/assets/130711180/da4b5d7b-6805-4547-98c6-b99b5b1bfb4b)
+
 -	Scikit-learn
 o	Supervised
 o	Confusion Matrix
