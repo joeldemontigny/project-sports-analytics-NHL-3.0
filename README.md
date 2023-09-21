@@ -5,7 +5,7 @@ Machine Learning Proposal – Sept 18, 2023
 Problem: Identify the key characteristics for the best teams in the NHL over the last 30 seasons.
 Tech and libraries used:
 -	Pandas
--	MySQL
+-	Spark
 -	Tableau
 
 -	![image](https://github.com/joeldemontigny/project-sports-analytics-NHL-3.0/assets/130711180/da4b5d7b-6805-4547-98c6-b99b5b1bfb4b)
