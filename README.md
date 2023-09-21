@@ -31,4 +31,4 @@ Team Members:
 
 Project Timelines:
 
-![image](https://github.com/joeldemontigny/project-sports-analytics-NHL-3.0/assets/130711180/7a15660a-ecba-4a5e-9bb1-ce439513b099)
+![image](https://github.com/joeldemontigny/project-sports-analytics-NHL-3.0/assets/130711180/3e63212a-0ff1-4b36-b64d-6fe1d57831b3)
