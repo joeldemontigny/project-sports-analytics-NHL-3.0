@@ -17,7 +17,8 @@ o	Optimization
 
 Dataset:
 -	Team Stats per season:
--	API Call: https://statsapi.web.nhl.com/api/v1/teams/<Team ID>?expand=team.stats&season=<season>
+
+-	![image](https://github.com/joeldemontigny/project-sports-analytics-NHL-3.0/assets/130711180/136e17ad-e829-49b9-b9db-d20a1422690c)
 
 GitHub Repository:
 
