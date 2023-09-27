@@ -2,7 +2,13 @@
 
 Project-Sports-Analytics-NHL-3.0
 Machine Learning Proposal – Sept 18, 2023
-Problem: Identify the key characteristics for the best teams in the NHL over the last 30 seasons.
+
+Problem: Identify the key characteristics for the best teams in the NHL over the last 30 seasons, by leveraging various Machine Learning Methedologies.
+
+Challenges: Imbalanced Data
+
+Future Enhancements: Use the model for player stats and additional KPIs not used for the purpose of this project.
+
 Tech and libraries used:
 -	Pandas
 -	Spark
