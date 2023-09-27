@@ -15,6 +15,9 @@ o	Supervised
 o	Confusion Matrix
 o	Optimization
 
+![image](https://github.com/joeldemontigny/project-sports-analytics-NHL-3.0/assets/130711180/ecff94de-84e0-402a-b10d-0be0388a9cab)
+
+
 Dataset:
 -	Team Stats per season:
 
