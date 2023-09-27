@@ -11,15 +11,14 @@ Future Enhancements: Use the model for player stats and additional KPIs not used
 
 Tech and libraries used:
 -	Pandas
--	Spark
+
+-	Scikit-learn
+
 -	Tableau
 
 -	![image](https://github.com/joeldemontigny/project-sports-analytics-NHL-3.0/assets/130711180/da4b5d7b-6805-4547-98c6-b99b5b1bfb4b)
 
--	Scikit-learn
-o	Supervised
-o	Confusion Matrix
-o	Optimization
+o	Machine Learning Models:
 
 ![image](https://github.com/joeldemontigny/project-sports-analytics-NHL-3.0/assets/130711180/0abb9d1a-7882-4cdf-9d9a-5b647511e6ea)
 
