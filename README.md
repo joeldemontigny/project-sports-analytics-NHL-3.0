@@ -20,7 +20,7 @@ Tech and libraries used:
 
 o	Machine Learning Models:
 
-![image](https://github.com/joeldemontigny/project-sports-analytics-NHL-3.0/assets/130711180/0abb9d1a-7882-4cdf-9d9a-5b647511e6ea)
+![image](https://github.com/joeldemontigny/project-sports-analytics-NHL-3.0/assets/130711180/513545cb-cb2c-4f82-9a09-eb892a00b7a1)
 
 Dataset:
 -	Team Stats per season:
