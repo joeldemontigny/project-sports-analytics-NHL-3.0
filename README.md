@@ -22,6 +22,9 @@ o	Machine Learning Models:
 
 ![image](https://github.com/joeldemontigny/project-sports-analytics-NHL-3.0/assets/130711180/513545cb-cb2c-4f82-9a09-eb892a00b7a1)
 
+![image](https://github.com/joeldemontigny/project-sports-analytics-NHL-3.0/assets/130711180/04fa25f4-5636-4703-b7e1-e06b275559c3)
+
+
 Dataset:
 -	Team Stats per season:
 
