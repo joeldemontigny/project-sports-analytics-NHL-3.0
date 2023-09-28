@@ -7,7 +7,7 @@ Problem: Identify the key characteristics for the best teams in the NHL over the
 
 Challenges: Imbalanced Data
 
-Future Enhancements: Use the model for player stats and additional KPIs not used for the purpose of this project.
+Future Iteration(s): Use the model for player stats and additional KPIs not used for the purpose of this project.
 
 Tech and libraries used:
 -	Pandas
